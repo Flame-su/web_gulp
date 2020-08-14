@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Flame-su/web_gulp#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "updates": "^10.3.4"
   }
 }
